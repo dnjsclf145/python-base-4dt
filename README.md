@@ -3,10 +3,14 @@
 
 ### 코드 실행방법
 파이썬 및 주피터 노트북이 설치 안되신분은 다음 설명을 참고하세요
+
 [파이썬 사전학습 자료](https://colab.research.google.com/drive/1cv7emjbXkjZ3ulke_276wO_hh0CgRsvJ?usp=sharing)   
 - 다음 링크에 접속한 후 상단의 `연결앱` -> `Google Colaboratory` 선택하여 파일을 열어주세요.
 - `Google Colaboratory`가 없는 경우 `더 많은앱 연결`을 선택하고 검색에 `Colaboratory`를 검색하여 설치하고 열어주세요.
 - 파일을 열고 드라이브에 사본 생성(save a copy in Drive)`을 클릭하면 사본으로 실행이 됩니다.
+![image.png](attachment:1fafcb30-1f29-4b3a-a1cd-4b66b674f854:image.png)
+
+![image.png](attachment:e8332e00-75bf-498c-8ed4-aff4c65457cf:image.png)
 
 ![colab_img](https://github.com/dnjsclf145/python-base-4dt/assets/78126706/887bc984-d60e-4373-a7c1-af4f123a86e5)
 
