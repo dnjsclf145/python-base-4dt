@@ -5,17 +5,17 @@
 파이썬 및 주피터 노트북이 설치 안되신분은 다음 설명을 참고하세요
 
 [파이썬 사전학습 자료](https://colab.research.google.com/drive/1cv7emjbXkjZ3ulke_276wO_hh0CgRsvJ?usp=sharing)   
-- 다음 링크에 접속한 후 상단의 `연결앱` -> `Google Colaboratory` 선택하여 파일을 열어주세요.
+- 다음 링크에 접속한 후 파일을 열고 드라이브에 사본 생성(save a copy in Drive)`을 클릭하면 사본으로 실행이 됩니다.
+
+<img width="320" alt="image1212345" src="https://github.com/dnjsclf145/python-base-4dt/assets/78126706/887bc984-d60e-4373-a7c1-af4f123a86e5"/>
+
+- 링크 접속시 구글 드라이브 창이 뜨는 경우 상단의 `연결앱` -> `Google Colaboratory` 선택하여 파일을 열어주세요.
 - `Google Colaboratory`가 없는 경우 `더 많은앱 연결`을 선택하고 검색에 `Colaboratory`를 검색하여 설치하고 열어주세요.
 
 <img width="320" alt="image1234png" src="https://github.com/user-attachments/assets/5af31832-2c9a-42f8-a047-7852685c4d87" />
 <img width="320" alt="image12414" src="https://github.com/user-attachments/assets/e1cbd739-7f90-49b6-b126-c9ed49fc50b7" />
 
-- 파일을 열고 드라이브에 사본 생성(save a copy in Drive)`을 클릭하면 사본으로 실행이 됩니다.
-  
-<img width="320" alt="image1212345" src="https://github.com/dnjsclf145/python-base-4dt/assets/78126706/887bc984-d60e-4373-a7c1-af4f123a86e5"/>
 
 - `shift+enter`또는 코드 왼쪽의 실행 버튼을 통해 코드를 하나씩 실행하여 확인할 수 있습니다.    
 
 <img width="460" alt="image121234414" src="https://github.com/dnjsclf145/python-base-4dt/assets/78126706/eabb27bd-5277-48d2-ac31-8645d3dcf8e4"/>
-
